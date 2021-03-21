@@ -1,0 +1,9 @@
+[submodule "bootloader"]
+	path = bootloader
+	url = ssh://git@gitlab.hennequince.fr:2022/launcher/bootloader.git
+[submodule "launch.it"]
+	path = launch.it
+	url = ssh://git@gitlab.hennequince.fr:2022/launcher/launch.it.git
+[submodule "launcher"]
+	path = launcher
+	url = ssh://git@gitlab.hennequince.fr:2022/launcher/launcher.git
