@@ -5,6 +5,7 @@
     "version": "0.2.0",
     "configurations": [
     
+    
         {
             "type": "java",
             "name": "Launch Current File",
@@ -15,14 +16,14 @@
             "type": "java",
             "name": "Launch Main",
             "request": "launch",
-            "mainClass": "hennquince.bootloader.Main",
+            "mainClass": "ftbgobrrr.bootloader.Main",
             "projectName": "bootloader"
         },
         {
             "type": "java",
             "name": "Launch Launcher",
             "request": "launch",
-            "mainClass": "hennequince.launcher.Launcher",
+            "mainClass": "ftbgobrrr.launcher.Launcher",
             "projectName": "launcher"
         },
     ]
